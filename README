@@ -1,0 +1,13 @@
+   Shuffle.cpp // The main program that will take one command line arguments giving an integer for the number of cards in a deck
+
+
+    List.h // Contains the public portion of the struct/class for operations in List.cpp
+
+    List.cpp // Contains the private portion of the struct/class for operations in list.cpp including
+    //all member functions
+    
+
+    ListTest.c // Tests the functions of the List ADT in a proper manner to check for memory leaks and inefficiencies. 
+
+    *//Both list.h and list.c
+    //will include their constructors/destructors, copy constructors, member functions, and manipulation procedures.//*
